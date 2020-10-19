@@ -1,0 +1,211 @@
+body{
+    background-color:white;
+    
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: o;
+  
+
+   
+    
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+
+.titiles{
+    
+    color: white;
+    border-right:10px red solid;
+    border-left:10px red solid;
+    border-top:10px red solid;
+    border-bottom:10px black solid;
+    border-width: 3px;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    border-radius: 15px;
+    background-image: url('https://media.wired.com/photos/5a593a7ff11e325008172bc2/191:100/w_2400,h_1256,c_limit/pulsar-831502910.jpg');
+
+}
+
+.titiles h1{
+    font-family: fantasy;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline ;
+    text-transform: uppercase ;
+    
+    
+}
+
+.detiles{
+   
+    font-weight: bold;
+    font-style: italic;
+}
+.box{
+    color: white;
+    font-weight: 1000px;
+    border-right:10px black solid;
+    border-left:10px black solid;
+    border-top:10px black solid;
+    border-bottom:10px black solid;
+    border-width: 3px;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    border-radius: 15px;
+    
+
+    background-image: url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/summer-movies-1587392939.jpg');
+}
+
+.login {
+    text-align: center;
+}
+
+.login input{
+    text-align: center;
+   padding: 10px;
+   border-radius: 10px;
+   padding-bottom: 10px;
+
+}
+
+.login label{
+    text-align: center;
+   padding: 10px;
+   border-radius: 10px;
+   padding-bottom: 10px;
+}
+
+.button{
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    text-align: center;
+    margin: 10px;
+    
+ 
+ }
+
+ .button:hover{
+     background:white;
+     color: #fff;
+ }
+ .sources{
+     text-align: center;
+     color: white;
+     font-weight: 1000px;
+     border-right:10px black solid;
+     border-left:10px black solid;
+     border-top:10px black solid;
+     border-bottom:10px black solid;
+     border-width: 3px;
+ 
+     margin-top: 20px;
+     margin-bottom: 20px;
+     margin-right: 20px;
+     margin-left: 20px;
+ 
+ 
+     padding-top: 20px;
+     padding-bottom: 20px;
+     padding-right: 20px;
+     padding-left: 20px;
+ 
+     border-radius: 15px;
+     background-image: url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/classic-movies-kids-1584724104.jpg');
+    
+     background-position: center center;
+ }
+
+.login label{
+display: block;
+}
+
+.contents h1{
+    text-align: center ;
+    border: 1px black solid;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bold;
+    background-image: url('data:image/jpeg;base64,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');
+    
+}
+
+.joners h2{
+    font-weight: bold;
+    text-align: center;
+   
+}
+
+.joners {
+    border: 1px black solid;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color: green;
+}
+
+.joners li {
+    padding-bottom: 8px;
+    border-bottom: dotted 1px black;
+    font-weight: bold;
+}
+
+.detiles{
+text-align: center;
+}
+
+
+
+.button-1{
+    padding: 10px 15px;
+    border: none;
+    text-align: center;
+    margin: 10px;
+    background-color:black;
+    color: white;
+}
+.fix-me{
+    position: fixed;
+    top: 400px;
+}
+
